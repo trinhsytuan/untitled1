@@ -1,0 +1,9 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja --target x86_64-apple-darwin20.3.0 -G Ninja -S /Users/tuan/CLionProjects/untitled1 -B /Users/tuan/CLionProjects/untitled1/cmake-build-release
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "/Users/tuan/CLionProjects/untitled1/cmake-build-release/x86_64-apple-darwin20.3.0"
+
+
+CMake Error: Unknown argument --target
+CMake Error: Run 'cmake --help' for all supported options.
